@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Roma and I'm a backend software engineer. I'm from Russia, living in 🌤Rostov and currently working at network game... 
+My name is Roma and I'm a backend software engineer. I'm from Russia, living in 🌤Rostov and currently working on network game... 
 
 ### 🔧 Technologies & Tools
 
