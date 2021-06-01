@@ -2,7 +2,14 @@
 
 ### Hi there 👋
 
-My name is Roma and I'm a backend software engineer. I'm from Russia, living in 🌤Rostov and currently working on network game... 
+My name is Roma and I'm a backend software engineer. I'm from Russia, living in 🌤Rostov and currently working on 2D story engine... 
+
+
+
+| Look at this, dude@! |
+| :---------------------: |
+| ![](overview/demo-novelette.webp) |
+
 
 ### 🔧 Technologies & Tools
 
@@ -31,7 +38,7 @@ My name is Roma and I'm a backend software engineer. I'm from Russia, living in 
   <a href="https://www.gitlab.com/koplenov"><img src="https://img.shields.io/badge/-GitLab-062146?style=flat-square&logo=GitLab" /></a>
   <a href="https://www.twitter.com/koplenov"><img src="https://img.shields.io/badge/-Twitter-062146?style=flat-square&logo=Twitter" /></a>
   <a href="https://www.t.me/koplenov"><img src="https://img.shields.io/badge/-Telegram-062146?style=flat-square&logo=Telegram" /></a>
-  
+
   <a href="https://mailhide.io/e/EVn4tCdG"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=Gmail&logoColor=white&color=5194f0" /></a>
   <img src="https://visitor-badge.glitch.me/badge?page_id=koplenov.visitor-badge&color=062146" />
 </p>
