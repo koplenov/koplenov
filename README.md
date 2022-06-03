@@ -57,3 +57,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### about this place:
+
+-'[I hate Github from August 13, 2021 at 09:00 Pacific time](https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/)'
+(с)
+
+The moronic nature of some developers should not make others suffer. Github Sucks
